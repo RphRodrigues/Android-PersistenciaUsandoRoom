@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PersistenciaUsandoRoom</string>
+    <string name="salvar">Salvar</string>
+    <string name="numero_cupom">Número cupom</string>
+    <string name="data_ultima_compra">Data última compra</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome_cliente">Nome do cliente</string>
 </resources>
